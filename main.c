@@ -2,7 +2,7 @@
  * my slave.c
  *
  * Created: 1/5/2021 10:36:23 AM
- * Author : Lenovo
+ * Author : Fatima Tayyab
  */ 
 
 #define F_CPU 16000000
